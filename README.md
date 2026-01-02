@@ -12,6 +12,9 @@
 
 ✅ 安全可靠：出错不影响其他文件
 
-<img alt="iTerm2 2026-01-02 15 17 30" src="https://github.com/user-attachments/assets/5a70b557-c8be-4533-8bbf-ecba5863a0c0" />
 
+<img alt="Cl 2026-01-02 15 17 10" src="https://github.com/user-attachments/assets/f5d5549a-0861-4843-96dc-afd5f4be5563" />
 
+```
+python3 remove_pinyin_tones.py *.dict.yaml
+```
